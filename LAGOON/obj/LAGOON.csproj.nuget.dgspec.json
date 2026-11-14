@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BuLaLay\\source\\repos\\LAGOON\\LAGOON\\LAGOON.csproj": {}
+    "C:\\Users\\Xig\\LAGOON\\LAGOON\\LAGOON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BuLaLay\\source\\repos\\LAGOON\\LAGOON\\LAGOON.csproj": {
+    "C:\\Users\\Xig\\LAGOON\\LAGOON\\LAGOON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BuLaLay\\source\\repos\\LAGOON\\LAGOON\\LAGOON.csproj",
+        "projectUniqueName": "C:\\Users\\Xig\\LAGOON\\LAGOON\\LAGOON.csproj",
         "projectName": "LAGOON",
-        "projectPath": "C:\\Users\\BuLaLay\\source\\repos\\LAGOON\\LAGOON\\LAGOON.csproj",
-        "packagesPath": "C:\\Users\\BuLaLay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BuLaLay\\source\\repos\\LAGOON\\LAGOON\\obj\\",
+        "projectPath": "C:\\Users\\Xig\\LAGOON\\LAGOON\\LAGOON.csproj",
+        "packagesPath": "C:\\Users\\Xig\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xig\\LAGOON\\LAGOON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BuLaLay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Xig\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,6 +51,32 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -70,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

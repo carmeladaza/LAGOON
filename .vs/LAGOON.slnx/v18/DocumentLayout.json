@@ -1,19 +1,140 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BuLaLay\\source\\repos\\LAGOON\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Xig\\LAGOON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|c:\\users\\xig\\lagoon\\lagoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|solutionrelative:lagoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|c:\\users\\xig\\lagoon\\lagoon\\migrations\\20261114135155_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|solutionrelative:lagoon\\migrations\\20261114135155_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|c:\\users\\xig\\lagoon\\lagoon\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|solutionrelative:lagoon\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|c:\\users\\xig\\lagoon\\lagoon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|solutionrelative:lagoon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|c:\\users\\xig\\lagoon\\lagoon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|solutionrelative:lagoon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|c:\\users\\xig\\lagoon\\lagoon\\lagoon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CCA01F7-E390-3CFE-B64F-EC8706E2A9C6}|LAGOON\\LAGOON.csproj|solutionrelative:lagoon\\lagoon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 210,
+          "SelectedChildIndex": 0,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Program.cs",
+              "RelativeDocumentMoniker": "LAGOON\\Program.cs",
+              "ToolTip": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Program.cs",
+              "RelativeToolTip": "LAGOON\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T13:36:03.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LAGOON\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "LAGOON\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T13:33:23.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LAGOON\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LAGOON\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T13:29:02.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAGOON",
+              "DocumentMoniker": "C:\\Users\\Xig\\LAGOON\\LAGOON\\LAGOON.csproj",
+              "RelativeDocumentMoniker": "LAGOON\\LAGOON.csproj",
+              "ToolTip": "C:\\Users\\Xig\\LAGOON\\LAGOON\\LAGOON.csproj",
+              "RelativeToolTip": "LAGOON\\LAGOON.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T13:27:29.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Xig\\LAGOON\\LAGOON\\appsettings.json",
+              "RelativeDocumentMoniker": "LAGOON\\appsettings.json",
+              "ToolTip": "C:\\Users\\Xig\\LAGOON\\LAGOON\\appsettings.json",
+              "RelativeToolTip": "LAGOON\\appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-14T13:11:09.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20261114135155_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Migrations\\20261114135155_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LAGOON\\Migrations\\20261114135155_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Xig\\LAGOON\\LAGOON\\Migrations\\20261114135155_InitialCreate.cs",
+              "RelativeToolTip": "LAGOON\\Migrations\\20261114135155_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T13:51:55.966Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
